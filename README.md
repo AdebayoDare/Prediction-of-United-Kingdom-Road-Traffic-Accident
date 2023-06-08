@@ -4,49 +4,45 @@ The project was aimed at advising UK government agencies about how to improve ro
 -[Vehicle Data](#Vehicle Data)
 -[Accident Data](#Accident Data)
 -[Casuality Data](#Casuality Data)
-
-##Vehicle Data
-This gives the information of each vehicle involved in road accident with a unique vehicle reference number
-
-
-## Project Title
+# Project Title
 
 A brief and catchy description of your project.
-
-## Accident Data
-This gives the information of each accidents with a unique accident reference
-
-##Casuality Data
-
-This contains the details of causalities involved in the accidents
 
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Data Used](#data-used)
+- [Data Cleaning](#data-cleaning)
+- [Findings](#findings)
+- [Models](#models)
+- [Recommendation](#recommendation)
 - [License](#license)
 
 ## Project Description
 
 Provide a more detailed description of your project here. Explain what it does, its main features, and any other relevant information.
 
-## Installation
+## Data Used
 
-Include step-by-step instructions on how to install and set up your project. You can include any dependencies or prerequisites that need to be installed as well.
+Describe the data you used for your project. Include information about the source of the data, its format, and any preprocessing steps you performed.
 
-## Usage
+## Data Cleaning
 
-Provide examples or instructions on how to use your project. Include code snippets or screenshots if necessary. Explain the main functionalities and how users can interact with your project.
+Explain the steps you took to clean and prepare the data for analysis or modeling. This may include handling missing values, removing duplicates, transforming variables, or any other data preprocessing techniques you applied.
 
-## Contributing
+## Findings
 
-If you would like others to contribute to your project, include guidelines on how to contribute, such as how to report bugs, submit feature requests, or make pull requests. You can also mention any specific coding conventions or guidelines to follow.
+Present the findings or results of your analysis. Describe any insights or patterns you discovered during the project. You can include visualizations, statistics, or any other supporting evidence to illustrate your findings.
+
+## Models
+
+Explain the models or algorithms you used in your project. Provide details about the approach, techniques, or methodologies employed. If applicable, discuss the model training process, hyperparameter tuning, or evaluation metrics used.
+
+## Recommendation
+
+Based on your findings and models, provide recommendations or actionable insights. Discuss how the results can be applied, potential limitations, or areas for future improvement.
 
 ## License
 
 Specify the license under which your project is released. This can help others understand the permissions and restrictions associated with your code.
-
-
 
