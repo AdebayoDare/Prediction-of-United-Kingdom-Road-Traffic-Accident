@@ -32,7 +32,22 @@ Present the findings or results of your analysis. Describe any insights or patte
 
 ## Models
 
-Explain the models or algorithms you used in your project. Provide details about the approach, techniques, or methodologies employed. If applicable, discuss the model training process, hyperparameter tuning, or evaluation metrics used.
+Several models were built to predict the severity of accidents. Decision tree and logistic regression classifiers were trained, achieving high-performance judged by different performance metrics. To further improve these metrics, an ensemble or stacked model was necessary. After training gradient boost and random forest ensembles, approximate accuracies of 94% and 97% were achieved, respectively. The random forest ensemble exhibited the best model performance across all metrics, with 97% accuracy, while logistic regression had the lowest accuracy at 93%.
+
+The following steps where taking before training models on the data. 
+
+#Feature Selection
+
+Select K-Best and chi-square libraries were used to select the best attributes in the dataset to increase model performance, while other attributes were dropped.
+
+#Data Scaling
+
+Due to the relatively high figures in some of the dataset, the minmaxscaler library was used to scale the data in the dataframe.
+
+#Imbalance
+
+The imbalance issue in the dataset was addressed through the Synthetic Minority Over-Sampling Technique (SMOTE).
+
 
 ## Recommendation
 1.	The analysis shows that Kent has a relatively more accident. Hence, there is a need for the police in the area to be more proactive in ensuring road accidents are reduced.
