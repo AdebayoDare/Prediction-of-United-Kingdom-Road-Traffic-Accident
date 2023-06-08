@@ -14,7 +14,9 @@ The project was aimed at advising UK government agencies about how to improve ro
 
 ## Project Description
 
-Provide a more detailed description of your project here. Explain what it does, its main features, and any other relevant information.
+The United Kingdom publishes the road traffic accidents twice a year. This is aimed at analysing this data. It also helps to investigates the probable causes of these accidents in order to guide the government to implement policies to prevent or reduce the impacts of these accidents on families and on the economy.
+
+This project did not consider car accidents alone, but included every accident recorded
 
 ## Data Used
 
@@ -33,10 +35,15 @@ Present the findings or results of your analysis. Describe any insights or patte
 Explain the models or algorithms you used in your project. Provide details about the approach, techniques, or methodologies employed. If applicable, discuss the model training process, hyperparameter tuning, or evaluation metrics used.
 
 ## Recommendation
+1.	The analysis shows that Kent has a relatively more accident. Hence, there is a need for the police in the area to be more proactive in ensuring road accidents are reduced.
+2.	There is a need to involve the police to control road traffics accidents on Fridays as most of the accidents occur on Fridays.
+3.	The police and order traffic marshals should be deployed to control traffic between 8:00am and 9:00am in the morning and 5:00pm and 6:00pm in the evening everyday as most accidents occur at this period.
+4.	Government should enact policies to support women while taking their children to school as the analysis shows that women have more accidents than men during this period compared with other times.
+5.	Government should put measures in place to help a safe driving to and from work as most of the accidents happen are work related. 
+6.	Most of the accidents that occur at night in places with over 60mph speed limit where there is no street light. Therefore, government needs to provide street lights at these places.
 
-Based on your findings and models, provide recommendations or actionable insights. Discuss how the results can be applied, potential limitations, or areas for future improvement.
 
-## License
+## Limitation
 
-Specify the license under which your project is released. This can help others understand the permissions and restrictions associated with your code.
+The project does not consider accidents that are not reported to the police. However, a well-policed country like the United Kingdom should have very few occurrences of such unreported accidents.
 
