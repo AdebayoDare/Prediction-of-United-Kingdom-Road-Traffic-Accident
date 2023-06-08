@@ -7,7 +7,6 @@ The project was aimed at advising UK government agencies about how to improve ro
 - [Project Description](#project-description)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
-- [Findings](#findings)
 - [Models](#models)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
@@ -48,11 +47,7 @@ Causality Data: This contains the details of causalities involved in the acciden
 
 ## Data Cleaning
 
-Explain the steps you took to clean and prepare the data for analysis or modeling. This may include handling missing values, removing duplicates, transforming variables, or any other data preprocessing techniques you applied.
-
-## Findings
-
-Present the findings or results of your analysis. Describe any insights or patterns you discovered during the project. You can include visualizations, statistics, or any other supporting evidence to illustrate your findings.
+Minimal cleaning was done on the data. This is expected, since the data was extracted from the government website. However, some nan values were present in the data specifically at the locations column. The nan values were replaced with the mean values for the location as indicated by the police force area.
 
 ## Models
 
