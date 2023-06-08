@@ -5,7 +5,7 @@ The project was aimed at advising UK government agencies about how to improve ro
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Data Used](#data-used)
+- [Data](#data)
 - [Data Cleaning](#data-cleaning)
 - [Findings](#findings)
 - [Models](#models)
@@ -22,7 +22,7 @@ This project did not consider car accidents alone, but included every other vehi
 
 
 
-## Data Used
+## Data
 
 The data used in this project was downloaded from the government website. A brief discription of the downloaded files are given below:
 
