@@ -34,19 +34,13 @@ Present the findings or results of your analysis. Describe any insights or patte
 
 Several models were built to predict the severity of accidents. Decision tree and logistic regression classifiers were trained, achieving high-performance judged by different performance metrics. To further improve these metrics, an ensemble or stacked model was necessary. After training gradient boost and random forest ensembles, approximate accuracies of 94% and 97% were achieved, respectively. The random forest ensemble exhibited the best model performance across all metrics, with 97% accuracy, while logistic regression had the lowest accuracy at 93%.
 
-The following steps where taking before training models on the data. 
+The following steps where taking before training models on the data: 
 
-#Feature Selection
+FEATURE SELECTION: Select K-Best and chi-square libraries were used to select the best attributes in the dataset to increase model performance, while other attributes were dropped.
 
-Select K-Best and chi-square libraries were used to select the best attributes in the dataset to increase model performance, while other attributes were dropped.
+DATA SCALING: Due to the relatively high figures in some of the dataset, the minmaxscaler library was used to scale the data in the dataframe.
 
-#Data Scaling
-
-Due to the relatively high figures in some of the dataset, the minmaxscaler library was used to scale the data in the dataframe.
-
-#Imbalance
-
-The imbalance issue in the dataset was addressed through the Synthetic Minority Over-Sampling Technique (SMOTE).
+IMBALANCE: The imbalance issue in the dataset was addressed through the Synthetic Minority Over-Sampling Technique (SMOTE).
 
 
 ## Recommendation
