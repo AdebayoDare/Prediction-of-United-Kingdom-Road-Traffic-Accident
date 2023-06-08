@@ -19,13 +19,15 @@ The United Kingdom publishes the road traffic accidents twice a year. This is ai
 
 Detailed analysis was done using python programming to draw actionable insights from the data. Some of the questions addressed in these projects are:
 
-(a)	Are there significant hours of the day, and days of the week, on which accidents occur?
-(b)	For motorbikes, are there significant hours of the day, and days of the week, on which accidents occur?
-(c)	For pedestrians involved in accidents, are there significant hours of the day, and days of the week, on which they are more likely to be involved?
-(d)	What impact, if any, does daylight savings have on road traffic accidents in the week after it starts and stops?
-(e)	What impact, if any, does sunrise and sunset times have on road traffic accidents?
-(f)	Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more frequently involved in road traffic accidents?
-(g)	Are there particular conditions (weather, geographic location, situations) that generate more road traffic accidents?
+(a)	What hours of the day or day of the week do accidents occur?
+
+(d)	Do daylight savings increase road traffic accidents in the week it starts and ends?
+
+(e)	Do sunrise and sunset have impact on road traffic accidents?
+
+(f)	Are some vehicles more prone to accidents?
+
+(g)	In what conditions do accidents occur the most?
 
 Machine learning models were built to give predictions about when and where accidents will occur, and the severity of the injuries. The government model performance was also compared with the model performance in this project to investigate similarity.
 
