@@ -1,14 +1,24 @@
 # Prediction-of-United-Kingdom-Road-Traffic-Accident
 The project was aimed at advising UK government agencies about how to improve road safety and predict accidents. It also analyses the road traffic data for the year 2019. ##The files provided by the government are:
 
--[Vehicle Data](#This gives the information of each vehicle involved in road accident with a unique vehicle reference number)
--[Accident Data](This gives the information of each accidents with a unique accident reference)
--[Causality Data](This contains the details of causalities involved in the accidents)
+-[Vehicle Data](#Vehicle Data)
+-[Accident Data](#Accident Data)
+-[Casuality Data](#Casuality Data)
+
+##Vehicle Data
+This gives the information of each vehicle involved in road accident with a unique vehicle reference number
 
 
-# Project Title
+## Project Title
 
 A brief and catchy description of your project.
+
+## Accident Data
+This gives the information of each accidents with a unique accident reference
+
+##Casuality Data
+
+This contains the details of causalities involved in the accidents
 
 ## Table of Contents
 
