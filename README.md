@@ -1,9 +1,3 @@
-
- ##The files provided by the government are:
-
--[Vehicle Data](#Vehicle Data)
--[Accident Data](#Accident Data)
--[Casuality Data](#Casuality Data)
 # Prediction of United Kingdom Road Traffic Accident
 
 The project was aimed at advising UK government agencies about how to improve road safety and predict accidents. It also analyses the road traffic data for the year 2019.
