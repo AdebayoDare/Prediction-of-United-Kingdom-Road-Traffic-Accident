@@ -17,7 +17,19 @@ The project was aimed at advising UK government agencies about how to improve ro
 
 The United Kingdom publishes the road traffic accidents twice a year. This is aimed at analysing this data. It also helps to investigates the probable causes of these accidents in order to guide the government to implement policies to prevent or reduce the impacts of these accidents on families and on the economy.
 
-This project did not consider car accidents alone, but included every other vehicle used on the UK roads such as pedal cycle, motorcycle, bus, horse, agricultural vehicle, tram, van, trucks, mobility scooters, etc.
+Detailed analysis was done using python programming to draw actionable insights from the data. Some of the questions addressed in these projects are:
+
+(a)	Are there significant hours of the day, and days of the week, on which accidents occur?
+(b)	For motorbikes, are there significant hours of the day, and days of the week, on which accidents occur?
+(c)	For pedestrians involved in accidents, are there significant hours of the day, and days of the week, on which they are more likely to be involved?
+(d)	What impact, if any, does daylight savings have on road traffic accidents in the week after it starts and stops?
+(e)	What impact, if any, does sunrise and sunset times have on road traffic accidents?
+(f)	Are there particular types of vehicles (engine capacity, age of vehicle, etc.) that are more frequently involved in road traffic accidents?
+(g)	Are there particular conditions (weather, geographic location, situations) that generate more road traffic accidents?
+
+Machine learning models were built to give predictions about when and where accidents will occur, and the severity of the injuries. The government model performance was also compared with the model performance in this project to investigate similarity.
+
+It should be noted that this project did not consider car accidents alone, but included every other vehicle used on the UK roads such as pedal cycle, motorcycle, bus, horse, agricultural vehicle, tram, van, trucks, mobility scooters, etc.
 
 
 
