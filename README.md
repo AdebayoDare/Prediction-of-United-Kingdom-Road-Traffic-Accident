@@ -11,6 +11,7 @@ The project was aimed at advising UK government agencies about how to improve ro
 - [Models](#models)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
+- [References](#references)
 
 ## Project Description
 
@@ -55,4 +56,23 @@ IMBALANCE: The imbalance issue in the dataset was addressed through the Syntheti
 ## Limitation
 
 The project does not consider accidents that are not reported to the police. However, a well-policed country like the United Kingdom should have very few occurrences of such unreported accidents.
+
+## References
+
+DfT (2013) Road accidents and safety statistics. Available online: https://www.gov.uk/government/collections/road-accidents-and-safety-statistics [Accessed 15/05/2022].
+
+DfT (2019) Data on all licensed and registered cars, produced by Department for Transport. Available online: https://www.gov.uk/government/statistical-data-sets/veh02-licensed-cars [Accessed 13/05/2022].
+
+DfT (2020) Light Rail and Tram Statistics,
+England: 2019/20.  Available online: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/951076/light-rail-and-tram-statistics-england-march-2020.pdf [Accessed 13/05/2022].
+
+DVLA (2020) Vehicle licensing statistics: 2019. Available online: https://www.gov.uk/government/statistics/vehicle-licensing-statistics-2019#:~:text=At%20the%20end%20of%202019%2C%20there%20were%3A,licensed%20vehicles%20in%20Great%20Britain [Accessed 13/05/2022].
+
+Latlong (2022) London, the UK. Available online: https://www.latlong.net/place/london-the-uk-14153.html [Accessed 13/05/2022].
+
+RAC (2011) Mortality statistics and road traffic accidents in the UK. 13/05/2022].
+
+TaD (2019) Clock Changes in London, England, United Kingdom 2019. Available online: https://www.timeanddate.com/time/change/uk/london?year=2019 [Accessed 13/05/2022].
+
+UKPD (2021) English Counties by Population and Area 2021/2022. Available online: https://populationdata.org.uk/english-counties-by-population-and-area/ [Accessed 23/05/2022].
 
