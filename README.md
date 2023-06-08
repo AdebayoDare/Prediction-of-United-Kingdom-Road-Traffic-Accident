@@ -19,7 +19,7 @@ The United Kingdom publishes the road traffic accidents twice a year. This is ai
 
 This project did not consider car accidents alone, but included every other vehicle used on the UK roads such as pedal cycle, motorcycle, bus, horse, agricultural vehicle, tram, van, trucks, mobility scooters, etc.
 
-![image](https://github.com/AdebayoDare/Prediction-of-United-Kingdom-Road-Traffic-Accident/assets/93272487/d43a64da-e3ec-4259-8670-43e2db0a0312)
+
 
 
 ## Data Used
