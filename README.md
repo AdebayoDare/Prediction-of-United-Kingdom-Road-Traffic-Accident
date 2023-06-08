@@ -17,7 +17,10 @@ The project was aimed at advising UK government agencies about how to improve ro
 
 The United Kingdom publishes the road traffic accidents twice a year. This is aimed at analysing this data. It also helps to investigates the probable causes of these accidents in order to guide the government to implement policies to prevent or reduce the impacts of these accidents on families and on the economy.
 
-This project did not consider car accidents alone, but included every accident recorded
+This project did not consider car accidents alone, but included every other vehicle used on the UK roads such as pedal cycle, motorcycle, bus, horse, agricultural vehicle, tram, van, trucks, mobility scooters, etc.
+
+![image](https://github.com/AdebayoDare/Prediction-of-United-Kingdom-Road-Traffic-Accident/assets/93272487/d43a64da-e3ec-4259-8670-43e2db0a0312)
+
 
 ## Data Used
 
