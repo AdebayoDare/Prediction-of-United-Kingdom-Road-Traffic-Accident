@@ -21,7 +21,11 @@ This project did not consider car accidents alone, but included every accident r
 
 ## Data Used
 
-Describe the data you used for your project. Include information about the source of the data, its format, and any preprocessing steps you performed.
+The data used in this project was downloaded from the government website. A brief discription of the downloaded files are given below:
+
+Vehicle Data: This gives the information of each vehicle involved in road accident with a unique vehicle reference number.
+Accident Data: This gives the information of each accidents with a unique accident reference.
+Causality Data: This contains the details of causalities involved in the accidents.
 
 ## Data Cleaning
 
