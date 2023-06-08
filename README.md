@@ -10,7 +10,7 @@ The project was aimed at advising UK government agencies about how to improve ro
 - [Findings](#findings)
 - [Models](#models)
 - [Recommendation](#recommendation)
-- [Limitation](#license)
+- [Limitation](#limitation)
 
 ## Project Description
 
