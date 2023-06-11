@@ -14,7 +14,7 @@ The project was aimed at advising UK government agencies about how to improve ro
 
 ## Project Description
 
-The United Kingdom publishes the road traffic accidents twice a year. This is aimed at analysing this data. It also helps to investigates the probable causes of these accidents in order to guide the government to implement policies to prevent or reduce the impacts of these accidents on families and on the economy.
+The United Kingdom publishes the road traffic accidents twice a year. This is aimed at analysing this data. It also helps to investigate the probable causes of these accidents in order to guide the government to implement policies to prevent or reduce the impacts of these accidents on families and on the economy.
 
 Detailed analysis was done using python programming to draw actionable insights from the data. Some of the questions addressed in these projects are:
 
@@ -53,7 +53,7 @@ Minimal cleaning was done on the data. This is expected, since the data was extr
 
 Several models were built to predict the severity of accidents. Decision tree and logistic regression classifiers were trained, achieving high-performance judged by different performance metrics. To further improve these metrics, an ensemble or stacked model was necessary. After training gradient boost and random forest ensembles, approximate accuracies of 94% and 97% were achieved, respectively. The random forest ensemble exhibited the best model performance across all metrics, with 97% accuracy, while logistic regression had the lowest accuracy at 93%.
 
-The following steps where taking before training models on the data: 
+The following steps were taking before training models on the data: 
 
 FEATURE SELECTION: Select K-Best and chi-square libraries were used to select the best attributes in the dataset to increase model performance, while other attributes were dropped.
 
