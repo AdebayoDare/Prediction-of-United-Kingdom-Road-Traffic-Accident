@@ -7,7 +7,7 @@ The project was aimed at advising UK government agencies about how to improve ro
 - [Project Description](#project-description)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
-- [Some Visualizations](#some visualization)
+- [Some Visualizations](#some-visualization)
 - [Models](#models)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
