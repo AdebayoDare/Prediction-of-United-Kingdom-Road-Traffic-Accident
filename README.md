@@ -65,7 +65,7 @@ IMBALANCE: The imbalance issue in the dataset was addressed through the Syntheti
 ## Recommendation
 1.	The analysis shows that Kent has a relatively more accident. Hence, there is a need for the police in the area to be more proactive in ensuring road accidents are reduced.
 2.	There is a need to involve the police to control road traffics accidents on Fridays as most of the accidents occur on Fridays.
-3.	The police and order traffic marshals should be deployed to control traffic between 8:00am and 9:00am in the morning and 5:00pm and 6:00pm in the evening everyday as most accidents occur at this period.
+3.	The police and other traffic marshals should be deployed to control traffic between 8:00am and 9:00am in the morning and 5:00pm and 6:00pm in the evening everyday as most accidents occur at this period.
 4.	Government should enact policies to support women while taking their children to school as the analysis shows that women have more accidents than men during this period compared with other times.
 5.	Government should put measures in place to help a safe driving to and from work as most of the accidents happen are work related. 
 6.	Most of the accidents that occur at night in places with over 60mph speed limit where there is no street light. Therefore, government needs to provide street lights at these places.
