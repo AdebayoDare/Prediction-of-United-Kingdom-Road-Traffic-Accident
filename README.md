@@ -61,7 +61,10 @@ Frequency of accidents with days of the week
 ![image](https://github.com/AdebayoDare/Prediction-of-United-Kingdom-Road-Traffic-Accident/assets/93272487/9743bf7c-b67c-4d86-a5cf-01f97f737efa)
 
 
-Frequency of accidents with month
+Frequency of accidents with vehicle types
+
+![image](https://github.com/AdebayoDare/Prediction-of-United-Kingdom-Road-Traffic-Accident/assets/93272487/d6b79b24-b7d6-48cc-b13e-9b9e2c52f3e8)
+
 
 
 
