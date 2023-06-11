@@ -7,6 +7,7 @@ The project was aimed at advising UK government agencies about how to improve ro
 - [Project Description](#project-description)
 - [Data](#data)
 - [Data Cleaning](#data-cleaning)
+- [Some Visualizations](#some visualization)
 - [Models](#models)
 - [Recommendation](#recommendation)
 - [Limitation](#limitation)
@@ -48,6 +49,14 @@ Causality Data: This contains the details of causalities involved in the acciden
 ## Data Cleaning
 
 Minimal cleaning was done on the data. This is expected, since the data was extracted from the government website. However, some nan values were present in the data specifically at the locations column. The nan values were replaced with the mean values for the location as indicated by the police force area.
+
+## Some Visualizations
+
+Frequency of accidents with hours of the day
+
+![image](https://github.com/AdebayoDare/Prediction-of-United-Kingdom-Road-Traffic-Accident/assets/93272487/63f9c1e0-6cea-49bc-b2bf-218866008fc3)
+
+
 
 ## Models
 
